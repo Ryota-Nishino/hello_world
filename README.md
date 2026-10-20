@@ -7,3 +7,5 @@ o# hello_world
 nanoにいます
 
 なのなの
+
+なんなの
